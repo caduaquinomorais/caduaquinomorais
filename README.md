@@ -1,5 +1,7 @@
 # Olá, me chamo Carlos Eduardo
 
+Profissional de tecnologia com formação em **Análise e Desenvolvimento de Sistemas** pelo SENAC e atualmente cursando **MBA em cloud engineering & architecture** na FIAP. Minha trajetória é movida pela busca constante de otimização e automação de tarefas, unindo desenvolvimento de software e análise de processos.
+
 ## 🌐 Minhas redes
 
 <p align="left">
@@ -11,26 +13,12 @@
   </a>
 </p>
 
----
-
-## 🧠 O que eu faço
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
-
----
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
